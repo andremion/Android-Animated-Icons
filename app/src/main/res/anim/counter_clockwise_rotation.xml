@@ -1,0 +1,7 @@
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="@android:integer/config_longAnimTime"
+    android:propertyName="rotation"
+    android:valueFrom="180"
+    android:valueTo="0"
+    android:valueType="floatType"/>

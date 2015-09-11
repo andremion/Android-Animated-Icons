@@ -1,0 +1,10 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_add_vector">
+    <target
+        android:name="add"
+        android:animation="@anim/ic_add_morph"/>
+    <target
+        android:name="rotation"
+        android:animation="@anim/clockwise_rotation"/>
+</animated-vector>
