@@ -12,6 +12,6 @@
             android:pathData="@string/back_vector_path"
             android:strokeColor="@android:color/white"
             android:strokeLineCap="round"
-            android:strokeWidth="6"/>
+            android:strokeWidth="7"/>
     </group>
 </vector>
