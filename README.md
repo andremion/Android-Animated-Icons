@@ -1,4 +1,4 @@
-# Android-Animated-Icons
+# Android Animated Icons
 
 ![Preview](https://github.com/andremion/Android-Animated-Icons/raw/master/assets/preview.gif)
 
