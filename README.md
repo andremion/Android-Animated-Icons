@@ -2,7 +2,7 @@
 
 ![Preview](https://github.com/andremion/Android-Animated-Icons/raw/master/assets/preview.gif)
 
-## How to create animated icons by vector drawables that will increase the user experience of Android
+## How to improve the user experience using animated icons with vector drawables on Android
 
 ## English version
 https://medium.com/@andremion/animated-icons-on-android-ee635307bd6
