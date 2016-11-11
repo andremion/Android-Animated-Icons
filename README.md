@@ -1,3 +1,5 @@
+[![Awesome Android #14](https://img.shields.io/badge/Awesome%20Android-%2314-green.svg?style=true)](https://android.libhunt.com/newsletter/14)
+
 # Android Animated Icons
 
 ![Preview](https://github.com/andremion/Android-Animated-Icons/raw/master/assets/preview.gif)
